@@ -145,13 +145,13 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
     papers:
       - title:  When is Deep Transfer Learning Useful for Infectious Disease Case Detection? A Synthetic Analysis’
         link: "#"
-        authors: Ye Ye, PhD, Qi Li, PhD, Ai Ren2, PhD, Disheng Liu, BS, Yuhe Gao, BS, etc
+        authors: Ye Ye, PhD, Qi Li, PhD, Ai Ren, PhD, Disheng Liu, BS, Yuhe Gao, BS, etc.
         conference: 2022
 
 
