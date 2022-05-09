@@ -85,7 +85,7 @@ education:
           
 experiences:
     - role: Algorithm Engineer
-      time: (coming)
+      time: (incoming)
       company: HUAWEI, Shanghai
       details: |
 
@@ -100,47 +100,41 @@ experiences:
           - using techique in NLP, like word2vec, Bert, or TF-IDF, to process raw free-text documents; data visualization; and predict disease severity using text documents;
           - co-worker of paper—' When is Deep Transfer Learning Useful for Infectious Disease Case Detection? A Synthetic Analysis’
           
+
+    - role: Big Data Project Intern 
+      time: 2019.3 - 2019.5
+      company: PCI-Suntek Technology Co., Ltd | Guangzhou
+      details: |
+            - Organized daily data. Documented project solutions provided by equipment and project vendors 
+            - Used SQL to complete daily query tasks
           
           
           
-          
-#    - role: UI Developer
-#      time: 2012 - 2014
-#      company: Amazon, London
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#      You can list your side projects or open source libraries in this
+#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Mack Detection (CV)
+        link: https://drive.google.com/drive/folders/1N0QKyotBpZRLBdC7CBtXIoutmdeE5zVJ?usp=sharing
+        tagline: "A local mask detection application that detects whether a person is wearing a mask in real time, providing audio feedback to the user in front of webcam."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Coruse search (IR)
+        link: https://github.com/DishengLL/IR-sys
+        tagline: "established a course searching engine for the School of Computing and Information (SCI) in UPitts"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: U.S. Election Debate - Analysis of Twitter’s Political Leanings (Data Mining)
+        link: "https://github.com/DishengLL/data_mining--2016Twitter"
+        tagline: "analyzed Tweets during the 2016 U.S. election to study the political tendencies of Twitter users"
+        
+      - title: E-commercial website (Data Base)
+        link: "https://github.com/DishengLL/e-commercial"
+        tagline: "developed an e-commercial web app with Flask and MySQL"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 publications:
     title: Publications
