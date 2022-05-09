@@ -61,7 +61,7 @@ education:
     - degree: MSc in information Science
       university: University of Pittsburgh
       time: 2020 - 2022
-      GPA: 3.72|4.0 
+      GPA: 3.72 | 4.0 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -73,7 +73,7 @@ education:
     - degree: BSc in Applied Mathematics
       university: Guangdong University of Technology
       time: 2015 - 2019
-      GPA: 3.7|5.0
+      GPA: 3.7 | 5.0
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -149,20 +149,11 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title:  When is Deep Transfer Learning Useful for Infectious Disease Case Detection? A Synthetic Analysis’
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Ye Ye, PhD, Qi Li, PhD, Ai Ren2, PhD, Disheng Liu, BS, Yuhe Gao, BS, etc
+        conference: 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
