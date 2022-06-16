@@ -143,8 +143,8 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-      - title:  When is Deep Transfer Learning Useful for Infectious Disease Case Detection? A Synthetic Analysis’
-        link: "#"
+      - title:  An Empirical Analysis of Deep Transfer Learning for Infectious Disease Case Detection
+        link: "https://github.com/AI-Public-Health/Deep-Transfer-Learning-Package"
         authors: Ye Ye, PhD, Qi Li, PhD, Ai Ren, PhD, Disheng Liu, BS, Yuhe Gao, BS, etc.
         conference: 2022
 
@@ -155,6 +155,9 @@ skills:
     toolset:
       - name: Python
         level: 98%
+        
+      - name: c++
+        level: 90%
 
       - name: ML
         level: 98%
