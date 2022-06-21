@@ -98,7 +98,7 @@ experiences:
           - According to the requirement of daily research, using PyTorch to establish neural network models. Write explanatory documents for the project code repository.
           - Integrate and extract raw text data, use Matemap Lite to extract concepts (features) from those raw free-text documents;
           - using techique in NLP, like word2vec, Bert, or TF-IDF, to process raw free-text documents; data visualization; and predict disease severity using text documents;
-          - co-worker of paper—' When is Deep Transfer Learning Useful for Infectious Disease Case Detection? A Synthetic Analysis’
+          - co-worker of paper—'An Empirical Analysis of Deep Transfer Learning for Infectious Disease Case Detection’
           
 
     - role: Big Data Project Intern 
