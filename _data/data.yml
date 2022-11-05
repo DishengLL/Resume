@@ -147,7 +147,7 @@ publications:
 #      bibendum fringilla a eu lectus.
     papers:
       - title:  An Empirical Analysis of Deep Transfer Learning for Infectious Disease Case Detection
-        link: "https://github.com/AI-Public-Health/Deep-Transfer-Learning-Package"
+        link: "https://github.com/AI-Public-Health/Deep-Transfer-Learning-Package-Release-Sep2022"
         authors: Ye Ye, PhD, Qi Li, PhD, Ai Ren, PhD, Disheng Liu, MS, Yuhe Gao, MS, etc.
         conference: 2022
 
