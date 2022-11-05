@@ -88,6 +88,9 @@ experiences:
       time: 2022.7 - now
       company: HUAWEI, Shanghai
       details: |
+          - Participate in the development of in-vehicle artificial intelligence operating systems whether operators in ONNX models meet
+          - Design and develop ONNX model checking tool to checkspecified chip restrictions.
+          - Learn GEMM and NEON commands to improve the performance of AI calculations
 
 
     - role: System Programmer
